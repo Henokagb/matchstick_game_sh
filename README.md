@@ -10,13 +10,13 @@ The first parameter is the number of lines (of matchsticks) and the second one i
 ./matchstick 5 3
 ```
 
-![startgame](screenshots/screenshot.png)
+![startgame](screenshots/Screenshot.png)
 
 You will always start the game.
 
 You need to provide the line on which you want to remove matchsticks and the number of matchsticks you want to remove.
 Then, the AI will play his turn.
 
-![startgame](screenshots/screenshot1.png)
+![startgame](screenshots/Screenshot1.png)
 
-Godd luck !
+Good luck !
